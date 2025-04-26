@@ -1,6 +1,6 @@
 # 👋 Xin chào, tôi là DungTaManh!
 
-🌱 Hiện tại tôi là sinh viên năm 3, đang làm thực tập sinh Backend Java.  
+👨‍🎓 Hiện tại tôi là sinh viên năm 3, đang làm thực tập sinh Backend Java.  
 🏠 Quê quán: **Ninh Bình**.  
 🎮 Sở thích: **Chơi game**, **bóng rổ**.  
 🌱 Hiện tại tôi đang học thêm về: **Spring Boot**, **Phát triển web toàn diện**.  
