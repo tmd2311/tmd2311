@@ -1,6 +1,9 @@
 # 👋 Xin chào, tôi là DungTaManh!
 
-🌱 Hiện tại tôi đang học thêm về: **Spring MVC**, **Phát triển web toàn diện**.  
+🌱 Hiện tại tôi là sinh viên năm 3, đang làm thực tập sinh Backend Java.  
+🏠 Quê quán: **Ninh Bình**.  
+🎮 Sở thích: **Chơi game**, **bóng rổ**.  
+🌱 Hiện tại tôi đang học thêm về: **Spring Boot**, **Phát triển web toàn diện**.  
 💬 Hãy hỏi tôi về: **Java Spring**, **C#**, **Web Development**.  
 🎯 Fun fact: *Code đi em do dự chậm dealine mất.*
 
